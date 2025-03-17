@@ -60,3 +60,6 @@ Celestial Horoscope Portal is a Streamlit-based web application that provides da
 ---
 ✨ *May the stars guide you to your destiny!* ✨
 
+---
+
+Made with ❤️ by Adi | [GitHub Repository](https://github.com/adityadeshpande03/Celestial-Horoscope)
