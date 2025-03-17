@@ -3,6 +3,9 @@
 ## 📌 Overview
 Celestial Horoscope Portal is a Streamlit-based web application that provides daily, weekly, or monthly horoscope readings for users based on their zodiac sign. The app utilizes Groq's LLM API along with OpenAI Agents SDK to generate personalized astrology insights, including love, career, health, and finance predictions. Users can also see lucky numbers and colors for the day.
 
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/e9748ef5-17aa-4ad3-923f-f7ad7774d4e2" />
+
+
 ## 🚀 Features
 - Select a zodiac sign to receive a personalized horoscope.
 - Choose between daily, weekly, or monthly readings.
