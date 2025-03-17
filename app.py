@@ -11,7 +11,7 @@ import nest_asyncio
 load_dotenv()
 
 # Get API key from environment variables or use the provided one
-OPENAI_API_KEY = os.getenv("GROQ_API_KEY", "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")
+OPENAI_API_KEY = os.getenv("GROQ_API_KEY")
 
 # Initialize OpenAI client
 client = openai.OpenAI(
